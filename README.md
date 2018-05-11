@@ -1,6 +1,4 @@
-Specify a TextView's shadowDx/shadowDy/shadowRadius values in dips.
-
-Allows you to specify a text view's shadow parameters in dips. You can't do that with default Android's `TextView`.
+Allows you to specify a text view's shadowDx/shadowDy/shadowRadius parameters in dips. You can't do that with the default Android's `TextView`, which makes using these parameters pretty inconvenient.
 
 Usage
 =====
