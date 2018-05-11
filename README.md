@@ -1,3 +1,5 @@
+Specify a TextView's shadowDx/shadowDy/shadowRadius values in dips.
+
 Download
 ========
 
